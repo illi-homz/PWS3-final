@@ -14,4 +14,4 @@ https://github.com/illi-homz/final-back
 admin:admin\
 user:qazwsx54321
 
-Укажндого админа расширенные права
+У админа расширенные права
