@@ -1,8 +1,12 @@
 Клиент:\
-https://dashboard.heroku.com/apps/testing-gomza-front
+https://dashboard.heroku.com/apps/testing-gomza-front\
+Репозиторий на git:\
+https://github.com/illi-homz/final-front
 
 Сервер:\
-https://testing-gomza-back.herokuapp.com/
+https://testing-gomza-back.herokuapp.com/\
+Репозиторий на git:\
+https://github.com/illi-homz/final-back
 
 Есть два пользоателя:\
 admin:admin\
