@@ -10,7 +10,7 @@ https://testing-gomza-back.herokuapp.com/
 Репозиторий Сервера на git:\
 https://github.com/illi-homz/final-back
 
-Есть два пользоателя:\
+Есть два пользователя:\
 admin:admin\
 user:qazwsx54321
 
